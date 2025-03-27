@@ -1,0 +1,220 @@
+Amount = 100
+
+Shaker = 0.000371
+Insertion = 0.0003
+Binary insertion = 7.4e-05
+Selection = 0.000166
+Merge = 0.000234
+Shell = 0.000297
+Quick = 0.000119
+
+
+Amount = 200
+
+Shaker = 0.001035
+Insertion = 0.001006
+Binary insertion = 0.000237
+Selection = 0.00054
+Merge = 0.000647
+Shell = 0.00101
+Quick = 0.000239
+
+
+Amount = 300
+
+Shaker = 0.002331
+Insertion = 0.00227
+Binary insertion = 0.000513
+Selection = 0.001208
+Merge = 0.001388
+Shell = 0.003054
+Quick = 0.00037
+
+
+Amount = 400
+
+Shaker = 0.004124
+Insertion = 0.00445
+Binary insertion = 0.00088
+Selection = 0.002118
+Merge = 0.002208
+Shell = 0.004058
+Quick = 0.000536
+
+
+Amount = 500
+
+Shaker = 0.006515
+Insertion = 0.006297
+Binary insertion = 0.00137
+Selection = 0.00333
+Merge = 0.003294
+Shell = 0.006291
+Quick = 0.000724
+
+
+Amount = 1000
+
+Shaker = 0.027196
+Insertion = 0.026127
+Binary insertion = 0.006544
+Selection = 0.013166
+Merge = 0.012056
+Shell = 0.026861
+Quick = 0.001548
+
+
+Amount = 1500
+
+Shaker = 0.060098
+Insertion = 0.058088
+Binary insertion = 0.013131
+Selection = 0.036003
+Merge = 0.036181
+Shell = 0.115386
+Quick = 0.002256
+
+
+Amount = 2000
+
+Shaker = 0.121573
+Insertion = 0.123289
+Binary insertion = 0.025646
+Selection = 0.061494
+Merge = 0.051758
+Shell = 0.11099
+Quick = 0.003088
+
+
+Amount = 2500
+
+Shaker = 0.165886
+Insertion = 0.160078
+Binary insertion = 0.033164
+Selection = 0.082635
+Merge = 0.070629
+Shell = 0.173687
+Quick = 0.00351
+
+
+Amount = 3000
+
+Shaker = 0.239074
+Insertion = 0.23149
+Binary insertion = 0.047596
+Selection = 0.118524
+Merge = 0.100487
+Shell = 0.250792
+Quick = 0.004341
+
+
+Amount = 3500
+
+Shaker = 0.328553
+Insertion = 0.314566
+Binary insertion = 0.071902
+Selection = 0.167986
+Merge = 0.136217
+Shell = 0.326599
+Quick = 0.005256
+
+
+Amount = 4000
+
+Shaker = 0.427496
+Insertion = 0.411012
+Binary insertion = 0.096828
+Selection = 0.208838
+Merge = 0.175232
+Shell = 0.418195
+Quick = 0.006191
+
+
+Amount = 4500
+
+Shaker = 0.538571
+Insertion = 0.517238
+Binary insertion = 0.11429
+Selection = 0.264538
+Merge = 0.221303
+Shell = 0.569487
+Quick = 0.006725
+
+
+Amount = 5000
+
+Shaker = 0.668974
+Insertion = 0.642112
+Binary insertion = 0.145317
+Selection = 0.326311
+Merge = 0.272697
+Shell = 0.709482
+Quick = 0.007426
+
+
+Amount = 5500
+
+Shaker = 0.803791
+Insertion = 0.775087
+Binary insertion = 0.186678
+Selection = 0.393577
+Merge = 0.328942
+Shell = 0.854632
+Quick = 0.008119
+
+
+Amount = 6000
+
+Shaker = 0.951448
+Insertion = 0.918373
+Binary insertion = 0.186111
+Selection = 0.46887
+Merge = 0.389862
+Shell = 0.987089
+Quick = 0.009033
+
+
+Amount = 7000
+
+Shaker = 1.29386
+Insertion = 1.24834
+Binary insertion = 0.252274
+Selection = 0.638826
+Merge = 0.527923
+Shell = 1.25542
+Quick = 0.011037
+
+
+Amount = 8000
+
+Shaker = 1.71271
+Insertion = 1.62853
+Binary insertion = 0.359822
+Selection = 0.834306
+Merge = 0.695364
+Shell = 1.64602
+Quick = 0.012429
+
+
+Amount = 9000
+
+Shaker = 2.133
+Insertion = 2.07301
+Binary insertion = 0.493626
+Selection = 1.06465
+Merge = 0.921745
+Shell = 2.60171
+Quick = 0.014553
+
+
+Amount = 10000
+
+Shaker = 3.66494
+Insertion = 3.26608
+Binary insertion = 0.599056
+Selection = 1.31102
+Merge = 1.11308
+Shell = 2.91494
+Quick = 0.015465
+
+
